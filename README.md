@@ -1,4 +1,4 @@
-# 📘 Customer Churn Prediction 
+# 🌪️ Customer Churn Prediction 
 
 ## 💰 Project Overview
 This project walks through a full machine‑learning pipeline for predicting customer churn using a Kaggle dataset.
@@ -52,7 +52,7 @@ df_clean = df_clean.drop_duplicates()
 ```
 
 #### 3.3 Label Encoding
-Categorical columns were  encoded:
+Categorical columns were encoded:
 - `Gender`
 - `Subscription Type`
 - `Contract Length`
