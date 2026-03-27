@@ -64,7 +64,7 @@ LabelEncoder().fit_transform()
 Label encoding converts categorical labels into integer codes so models can process non‑numeric features.
 
 #### 3.4 Feature Scaling
-##### Standardization (StandardScaler) — Technique 1
+##### 3.4.1 Standardization (StandardScaler) — Technique 1
 Applied to numerical columns:
 ```
 scaler = StandardScaler()
@@ -73,7 +73,7 @@ df_standard_clean[numerical_cols] = scaler.fit_transform(...)
 Benefits noted:
 Centers features to mean 0 and scales them to unit variance… improving performance of gradient‑based and distance‑based algorithms.
 
-##### Normalization (MinMaxScaler) — Technique 2
+##### 3.4.2 Normalization (MinMaxScaler) — Technique 2
 Alternative scaling option:
 ```
 scaler = MinMaxScaler()
