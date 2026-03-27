@@ -1,4 +1,4 @@
-📘 Customer Churn Prediction 
+# 📘 Customer Churn Prediction 
 
 ## 💰 Project Overview
 This project walks through a full machine‑learning pipeline for predicting customer churn using a Kaggle dataset.
