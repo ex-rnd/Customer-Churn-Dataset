@@ -1,6 +1,6 @@
 # 🌪️ Customer Churn Prediction 
 
-## 💰 Project Overview
+## 📽️ Project Overview
 This project walks through a full machine‑learning pipeline for predicting customer churn using a Kaggle dataset.
 It includes:
 - 	Data loading and inspection
@@ -25,7 +25,7 @@ Imported libraries include:
 - `imbalanced-learn` (SMOTE)
 
 ### 📥 2. Data Sourcing
-_ The dataset is loaded from Google Drive:
+The dataset is loaded from Google Drive:
 ```
 df = pd.read_csv("/content/drive/MyDrive/JengaLabs/customer_churn_dataset-training-master.csv")
 ```
