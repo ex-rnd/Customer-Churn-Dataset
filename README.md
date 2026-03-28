@@ -121,7 +121,7 @@ print(confusion_matrix(y_test, y_pred))
 ```
 
 
-### 8. Challenges Encountered
+### ⛔ 8. Challenges Encountered
 Finding the right order of steps: 
 ```
 inspect → impute → encode → scale → split → resample → train.
